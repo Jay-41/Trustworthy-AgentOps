@@ -58,5 +58,5 @@ The system is done when:
 
 ## Agreement
 
-All members agree to the above as of [date]:
+All members agree to the above as of 9/11/2026:
 Jay Trivedi, Zakarias Zewdu, Neha Senthil-Kumar, Hafa Kazi, Zach Johnson, Jared Lillie
