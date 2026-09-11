@@ -89,4 +89,4 @@ which feeds the Operator interface (trace view, search).
 
 ## Status
 
-Current status: [green / amber / red]
+Current status: Green
