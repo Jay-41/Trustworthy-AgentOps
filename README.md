@@ -9,7 +9,7 @@
 
 | Name | UTD Email | Role (Week 1) |
 |---|---|---|
-| Jay Trivedi | jht230000@utdallas.edu | Team Leader (rotates weekly) |
+| Jay Trivedi | jht230000@utdallas.edu | Team Leader |
 | Zakarias Zewdu | zxz210018@utdallas.edu | |
 | Neha Senthil-Kumar | nxs220105@utdallas.edu | Time Keeper |
 | Hafa Kazi | nsk210004@utdallas.edu | |
@@ -22,10 +22,10 @@ Multi-agent AI workflows call models, tools, APIs, and other agents. When someth
 
 ## What We're Building
 
-Core objectives (MVP — all required):
+Core objectives:
 1. **Ingest** — accept agent-run events (JSON files + simple API), validated against a versioned schema
 2. **Visualize** — trace view of agents, models, tool calls, cost, latency, status
-3. **Detect** — identify policy violations against T5's procurement rules, with an explanation per violation
+3. **Detect** — identify policy violations against procurement rules, with an explanation per violation
 4. **Review** — human-in-the-loop: approve / reject / stop / simulated rollback
 5. **Audit** — searchable, append-only trail of every run and human decision
 
@@ -41,8 +41,6 @@ Policy rules and schema will cover things like:
 - Spend limit thresholds and approval tiers
 - Supplier eligibility / vetting criteria
 - Contract term violations
-
-(Schema, rule taxonomy, and seed sets are T5-specific — not shared with other teams.)
 
 ## Architecture
 
@@ -70,22 +68,6 @@ which feeds the Operator interface (trace view, search).
 | Oct 20 | Declarative policy engine + violation explainability |
 | Oct 27 | HITL state machine + rollback semantics (T5's deep-review Tuesday) |
 | Nov 17 | One-command startup, 1,000-event search/filter perf |
-
-## Ground Rules
-
-- Private repo only — Prof. Seker added as collaborator, README + .gitignore in place before first commit
-- Synthetic or public data only — never production/personal data
-- No secrets, keys, or credentials in source control (including deleted branches)
-- Dependency licenses checked and recorded
-- AI tool use permitted with disclosure — see AI_DISCLOSURE_LOG.md
-
-## Communication
-
-- Email subject lines: CS4485-T5 — topic
-- Technical questions go in the weekly report (Question 7), not email
-- Weekly report due Friday 11:59 PM
-- Friday team meeting time is flexible — meet whenever works for the team, as long as the report is submitted before Friday midnight
-- POC rotates weekly by default, but the team can vote to keep the same POC all semester if everyone agrees
 
 ## Status
 
