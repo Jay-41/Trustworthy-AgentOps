@@ -11,10 +11,10 @@
 |---|---|---|
 | Jay Trivedi | jht230000@utdallas.edu | Team Leader (rotates weekly) |
 | Zakarias Zewdu | zxz210018@utdallas.edu | | 
-| Neha Senthil-Kumar | nxs220105@utdallas.edu | | Time Keeper
+| Neha Senthil-Kumar | nxs220105@utdallas.edu | | Time Keeper |
 | Hafa Kazi | nsk210004@utdallas.edu | |
 | Zach Johnson | zmj230000@utdallas.edu | |
-| Jared Lillie | jjl220004@utdallas.edu | | Scribe
+| Jared Lillie | jjl220004@utdallas.edu | | Scribe |
 
 
 ## Problem
