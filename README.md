@@ -10,14 +10,12 @@
 | Name | UTD Email | Role (Week 1) |
 |---|---|---|
 | Jay Trivedi | jht230000@utdallas.edu | Team Leader (rotates weekly) |
-| Zakarias Zewdu | zxz210018@utdallas.edu | |
-| Neha Senthil-Kumar | nxs220105@utdallas.edu | |
+| Zakarias Zewdu | zxz210018@utdallas.edu | | 
+| Neha Senthil-Kumar | nxs220105@utdallas.edu | | Time Keeper
 | Hafa Kazi | nsk210004@utdallas.edu | |
 | Zach Johnson | zmj230000@utdallas.edu | |
-| Jared Lillie | jjl220004@utdallas.edu | |
+| Jared Lillie | jjl220004@utdallas.edu | | Scribe
 
-POC: **[name]** (rotates during the semester)
-Scribe: **[name]** | Time-keeper: **[name]**
 
 ## Problem
 
@@ -86,8 +84,8 @@ which feeds the Operator interface (trace view, search).
 
 - Email subject lines: CS4485-T5 — topic
 - Technical questions go in the weekly report (Question 7), not email
-- Weekly report due Friday 11:59 PM (destination/format: [confirm with advisor])
+- Weekly report due Friday 11:59 PM
 
 ## Status
 
-Current status: [green / amber / red]
+Current status: Green
